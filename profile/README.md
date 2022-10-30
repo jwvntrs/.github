@@ -36,7 +36,7 @@ in the field of
 * Operations management / SCM
 
 
-Please visit us @
+## Visit us @
 
 Web:
 * [jueewo ventures](https://jwvntrs.com) 
