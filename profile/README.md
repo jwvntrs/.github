@@ -13,7 +13,9 @@ We are fluid in Blockchain (Solana, Solidity) and AI/ML solutions.
 ## We love Rust | Solana | Polkadot
 
 Systems and blockchain development with Rust made easy. Create a MVP in weeks - secure, performant, scalable. No overhead, just developing.
+
 --
+
 We are currently working on a fintech and production planning system using Rust and Solana. A first prototype is currently in stealth mode and undergoes intensive testing.
 With our focus on B2B solutions, we're open for cooperations & partners.  We are looking forward to schedule a meeting.
 
